@@ -143,7 +143,7 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Omar Salem's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarsalem33&show_icons=true&locale=en&layout=compact" height="230px"/></a>
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarsalem33&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 
@@ -155,6 +155,7 @@
 
 
 
+	
 
 	
 
