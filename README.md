@@ -141,6 +141,7 @@
 ----	
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omarsalem33&theme=tokyonight_duo" alt="omarsalem33" /></p>
+</details>
 
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
