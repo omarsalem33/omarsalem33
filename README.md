@@ -13,7 +13,7 @@
 </p>
 
 	
-## <picture><img src = "https://github.com/omarsalem33/omarsalem33/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/omarsalem33/omarsalem33/blob/main/Images/download.png?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/omarsalem33/omarsalem33/blob/main/Images/LoveCode.gif?raw=true" width = 250px></picture>
 
