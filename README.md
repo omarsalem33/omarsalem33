@@ -19,9 +19,9 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
+- :school: I am a `Fresh Graduate` From [Faculty of Computers & Informatics at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1oCSPLJT_b9GYul6d_EB6N3xlsPOefcU0/view?usp=sharing).
