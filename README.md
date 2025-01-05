@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Omar Salem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![image](https://github.com/user-attachments/assets/637048c7-796b-4f94-b310-d5f4d0c95f26)<h1 align="center">Hi , I'm Omar Salem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=BackEnd+Using+.NET;Fresh+Graduated+From+Computer+Science;Problem+Solver;Always+learning+new+things"></a>
@@ -24,7 +24,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/17ApKwBtZFTCWzxeZDeeGf4b2UT-5BaFP/view?usp=drive_link).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1iRys_5yeWuFfFb-zMLlsS14g4e26wsiC/view?usp=sharing).
 <br>
 
 
