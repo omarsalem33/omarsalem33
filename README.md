@@ -18,7 +18,7 @@
 
 <br><br>
 
-- :school: I am a `Fresh Graduate` From [Faculty of Computers & Informatics at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
+- :school: I am a `Graduate` From [Faculty of Computers & Informatics at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
